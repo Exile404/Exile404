@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Exile404 aka Dhrubo</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-![I am GitHub Readme Generator's creator](https://www.gamewallpapers.com/download.php?img=wallpaper_prey_mooncrash_01_1920x1080.jpg)
+![I am GitHub Readme Generator's creator](https://pasteboard.co/QZ06uoCq1uUi.png)
 
-- 🌱 I’m currently learning **Python, Javascripts, Machine Learning, AI, NextJS**
+- 🌱 I’m currently learning **Python, Javascript, Machine Learning, AI, and NextJS**
 
 - 👯 I’m looking to collaborate on **Medical Assitant**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tahsinul.haque.dhrubo@gmail.com**
 
-- ⚡ Fun fact **I often forgot to do my other works on time due to coding**
+- ⚡ Fun fact **I often forgot to do my other work on time due to coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
