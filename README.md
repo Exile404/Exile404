@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Exile404 aka Dhrubo</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img src="/Dhrubo.png" alt="">
+<img src="/Dhrubo.png" align="center" alt="">
 
 - 🌱 I’m currently learning **Python, Javascript, Machine Learning, AI, and NextJS**
 
