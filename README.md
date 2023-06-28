@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Exile404 aka Dhrubo</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="/Dhrubo.png" alt="" style="max-width: 100%; max-height: 100%;">
+<div style="text-align: center;">
+  <img src="/Dhrubo.png" alt="">
 </div>
 
 
