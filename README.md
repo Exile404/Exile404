@@ -57,7 +57,7 @@
      </tr>
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Exile404&show_icons=true&theme=dark"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie2111&langs_count=15&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exile404&langs_count=15&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
    </table>
 </p>
@@ -65,12 +65,4 @@
 <br/>
 
 <br/>
-
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Exile404">
-</a>
-<a href="https://github.com/Eddie2111?tab=followers"><img src="https://img.shields.io/github/followers/Exile404?label=Followers&style=social" alt="GitHub Badge"></a>
 
