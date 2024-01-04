@@ -70,7 +70,7 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Eddie2111">
+    <img src="https://komarev.com/ghpvc/?username=Exile404">
 </a>
-<a href="https://github.com/Eddie2111?tab=followers"><img src="https://img.shields.io/github/followers/Eddie2111?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Eddie2111?tab=followers"><img src="https://img.shields.io/github/followers/Exile404?label=Followers&style=social" alt="GitHub Badge"></a>
 
