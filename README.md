@@ -56,7 +56,7 @@
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Eddie2111&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Exile404&show_icons=true&theme=dark"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie2111&langs_count=15&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
    </table>
