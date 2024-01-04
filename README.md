@@ -40,8 +40,37 @@
 <p><a href="https://www.buymeacoffee.com/exile404"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="exile404" /></a></p><br><br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exile404&show_icons=true&locale=en&layout=compact" alt="Exile404" /></p>
+<p align="center">
+    <a href="https://github.com/Exile404 github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Exile404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Eddie2111&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exile404&show_icons=true&locale=en" alt="exile404" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exile404&" alt="exile404" /></p>
+<h3 align="center">📉 GitHub Stats 📈</h3>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Eddie2111&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie2111&langs_count=15&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
+<br/>
+
+<br/>
+
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Eddie2111">
+</a>
+<a href="https://github.com/Eddie2111?tab=followers"><img src="https://img.shields.io/github/followers/Eddie2111?label=Followers&style=social" alt="GitHub Badge"></a>
+
