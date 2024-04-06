@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">🌱 I’m currently learning Python, Javascript, Machine Learning, AI, and NextJS<br><br>👯 I’m looking to collaborate on PhD Research on Machine Learning, AI, Deep Learning & NLP<br><br>👨‍💻 All of my projects are available at [https://github.com/Exile404](https://github.com/Exile404)<br><br>📫 How to reach me tahsinul.haque.dhrubo@gmail.com<br><br>🌐 Visit **[My Website](https://th-dhrubo-portfolio.vercel.app)**<br><br>⚡ Fun fact I often forgot to do my other work on time due to coding</p>
+<p align="left">🌱 I’m currently learning Python, Javascript, Machine Learning, AI, and NextJS<br><br>👯 I’m looking to collaborate on PhD Research on Machine Learning, AI, Deep Learning & NLP<br><br>👨‍💻 All of my projects are available at https://github.com/Exile404<br><br>📫 How to reach me tahsinul.haque.dhrubo@gmail.com<br><br>🌐 Visit My Website - https://th-dhrubo-portfolio.vercel.app<br><br>⚡ Fun fact I often forgot to do my other work on time due to coding</p>
 
 ###
 
