@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Exile404 aka Dhrubo</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Data Scientist</h3>
 
 
 <div align="center">
@@ -7,6 +7,7 @@
 </div>
 
 
+- Currently, I am working as a Data Scientist in AIDocBuilder INC.
 
 - 🌱 I’m currently learning **Python, Javascript, Machine Learning, AI, and NextJS**
 
