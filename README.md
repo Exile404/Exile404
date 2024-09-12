@@ -7,7 +7,7 @@
 </div>
 
 
-- Currently, I am working as a Data Scientist in AIDocBuilder INC.
+- Currently, I am working as a Data Scientist at AIDocBuilder INC.
 
 - 🌱 I’m currently learning **Python, Javascript, Machine Learning, AI, and NextJS**
 
