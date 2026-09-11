@@ -96,19 +96,6 @@ I build AI systems that run in production, not demos.
   <img src="https://streak-stats.demolab.com?user=Exile404&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-
----
-
-### Competitive programming
-
-<p>
-  <a href="https://www.leetcode.com/Exile404"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/programmers_hive"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/dhrubo29"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/@dhrubo_bracu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" /></a>
-  <a href="https://stackoverflow.com/users/13416626"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
-</p>
-
 ---
 
 <p align="center"><i>Turning research-grade AI into systems that hold up in production.</i></p>
